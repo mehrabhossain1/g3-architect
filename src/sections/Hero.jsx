@@ -37,6 +37,7 @@ const Hero = () => {
       >
         Explore More
       </button>
+      <img src='../../images/banner.png' alt='' />
     </div>
   )
 }
