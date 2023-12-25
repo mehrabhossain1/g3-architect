@@ -2,7 +2,7 @@ const Header = () => {
   return (
     <div style={{ display: 'flex', justifyContent: 'space-around' }}>
       <div style={{ fontWeight: '700', fontSize: '45px', color: '#131313' }}>
-        logo
+        G3 Architects
       </div>
       <div>
         <a href=''>Home</a>
